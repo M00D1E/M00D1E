@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moodie</h1>
 <h3 align="center">A passionate developer from Mx</h3>
 
-- 🌱 I’m currently learning **HTML, CSS & Cybersecurity**
+- 🌱 I’m currently learning **HTML, CSS, JS & Cybersecurity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
